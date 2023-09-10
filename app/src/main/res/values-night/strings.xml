@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="topping">Topping</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+</resources>
